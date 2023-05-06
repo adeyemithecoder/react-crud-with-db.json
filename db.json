@@ -1,0 +1,53 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "adigun",
+      "email": "adigun@gmail.com",
+      "phone": "09089",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "oji",
+      "email": "marhe@gmail.com",
+      "phone": "099999",
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "oji",
+      "email": "marhe@gmail.com",
+      "phone": "099999",
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "oji",
+      "email": "marhe@gmail.com",
+      "phone": "099999",
+      "active": true
+    },
+    {
+      "id": 7,
+      "name": "oji",
+      "email": "marhe@gmail.com",
+      "phone": "099999",
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "oji",
+      "email": "marhe@gmail.com",
+      "phone": "099999",
+      "active": true
+    },
+    {
+      "id": 9,
+      "name": "oji",
+      "email": "marhe@gmail.com",
+      "phone": "099999",
+      "active": true
+    }
+  ]
+}
